@@ -1,0 +1,2 @@
+# eandradep-job-profile
+IN THIS PROJECT I SHOW YOU ALL MY WORK EXPERIENCE
