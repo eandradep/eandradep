@@ -1,28 +1,28 @@
-const searchVisible = 0;
-const transparent = true;
+var searchVisible = 0;
+var transparent = true;
 
-const transparentDemo = true;
-const fixedTop = false;
+var transparentDemo = true;
+var fixedTop = false;
 
-const navbar_initialized = false;
+var navbar_initialized = false;
 
-let big_image;
-let scroll;
-let project_content;
-let $project;
+var big_image; 
+var scroll;
+var project_content;
+var $project;
 scroll = ( 2500 - $(window).width() ) / $(window).width();
 
-let $ScrollTop;
-let $ScrollBot;
+var $ScrollTop;
+var $ScrollBot;
 
-let pixels;
+var pixels;
 
-let modal;
-let $project_content;
+var modal;
+var $project_content;
 
-let test = true;
+var test = true;        
 
-let timerStart = Date.now();
+var timerStart = Date.now();
 var delay;
 
 var no_of_elements = 0;
